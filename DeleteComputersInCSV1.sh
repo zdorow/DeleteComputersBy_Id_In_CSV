@@ -30,12 +30,12 @@
 #	Version: 1.2
 #
 #   Release Notes:
-#   - Style Guide Compatibility
+#   	- Style Guide Compatibility
 #	- Error handling for bad credentials, bad url and bad filepath
 #
 #	- Created by Matthew Mitchell on June 12, 2017
-#   - Updated by Matthew Mitchell on July 10, 2017 v1.1
-#	- Updated by Zach Dorow on March 3, 2018 to include error handling and output v1.2 
+#   	- Updated by Matthew Mitchell on July 10, 2017 v1.1
+#	- Updated by Zach Dorow on March 3, 2018 v1.2
 #
 ####################################################################################################
 #
